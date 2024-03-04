@@ -32,8 +32,8 @@ build完成后通知管理员，由管理员负责推送至`bit:5000`总结点�
 |---------|---------|
 | root  | bit:5000/deepo    |
 | root  | bit:5000/py3.10    |
+| byf   | bit:5000/byf_py310_torch221    |
 | byf   | bit:5000/py38_vc    |
-| byf   | bit:5000/vc_py310_torch212_cu121    |
 | yry   | bit:5000/yry_py3.10_pytorch2.1.2_cu12.1_devel   |
 |tcb|bit:5000/tcb_vc_torch212_cu121|
 
