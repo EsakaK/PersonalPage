@@ -18,7 +18,9 @@ ARG https_proxy=http://202.38.69.70:3129
 构建镜像需要在G121节点上，用户目录下新建一个临时文件夹，如`/ghome/byf/docker_tmp`，并将Dockerfile放在该文件夹中进行build。
 build完成后通知管理员，由管理员负责推送至`bit:5000`总结点。之后管理员会删除相应的临时镜像。
 
-目前服务器上存有的`bit:5000/deepo`镜像，已经可以满足绝大多数深度学习任务。
+目前服务器上存有的`bit:5000/deepo`镜像，已经可以满足绝大多数深度学习任务。bit:5000/py3.10是一个配备python 3.10的ubuntu纯净镜像，bit:5000/byf_py310_torch221是在前一个镜像的基础上安装了torch2.21和cudatoolkit 12.1的镜像。
+如有自建镜像需求，可以在以上的内部镜像基础上构建。
+
 
 <span style="color:red">严禁！！！</span>
 - 严禁build镜像后，自行push。
