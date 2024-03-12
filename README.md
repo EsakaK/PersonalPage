@@ -40,4 +40,6 @@ build完成后通知管理员，由管理员负责推送至`bit:5000`总结点�
 | byf   | bit:5000/py38_vc    |
 | yry   | bit:5000/yry_py3.10_pytorch2.1.2_cu12.1_devel_scipy1.11.1   |
 |tcb|bit:5000/tcb_vc_torch212_cu121|
+|lx|bit:5000/lx_py3.10_pytorch2.1.2_cu12.1_devel|
+
 
