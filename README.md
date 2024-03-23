@@ -15,7 +15,7 @@ ARG https_proxy=http://202.38.69.70:3129
 ```
 来保证apt-get和pip install等命令可以正常接入网络。
 
-用户在build后需要通知管理员，并提供**基础镜像名称、构建的镜像名称和构建镜像的目录**。用户构建的镜像名称以用户名开头，如`byf_py38_torch112`。
+用户在build后需要通知管理员，并提供**基础镜像名称、构建的镜像名称和构建镜像的目录**。用户构建的镜像名称以bit:5000/用户名开头，如`bit:5000/byf_py38_torch112`。
 
 构建镜像需要在G121节点上，用户目录下新建一个临时文件夹，如`/ghome/byf/docker_tmp`，并将Dockerfile放在该文件夹中进行build。
 build完成后通知管理员，由管理员负责推送至`bit:5000`总结点。之后管理员会删除相应的临时镜像。
@@ -40,6 +40,8 @@ build完成后通知管理员，由管理员负责推送至`bit:5000`总结点�
 | byf   | bit:5000/py38_vc    |
 | yry   | bit:5000/yry_py3.10_pytorch2.1.2_cu12.1_devel_scipy1.11.1   |
 |tcb|bit:5000/tcb_vc_torch212_cu121|
-|lx|bit:5000/lx_py3.10_pytorch2.1.2_cu12.1_devel|
+|lx|bit:5000/lx_py3.10_pytorch2.1.2_cu12.1_devel_v3|
+|mr|bit:5000/mr_difussion|
+
 
 
