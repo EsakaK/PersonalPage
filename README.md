@@ -44,6 +44,7 @@ build完成后通知管理员，由管理员负责推送至`bit:5000`总结点�
 |lx|bit:5000/lx_py3.10_pytorch2.1.2_cu12.1_devel_v4|
 |mr|bit:5000/mr_difussion|
 |lzy|bit:5000/lzy_docker_basic_former|
+|lzy|bit:5000/lzy_docker_basic_mmb|
 |drx|bit:5000/drx_ldm_v2|
 
 
