@@ -3219,3 +3219,18 @@ input, select, textarea {
 			}
 
 	}
+
+/* Add */
+.container {
+	display: flex;
+	align-items: center; /* 垂直居中对齐 */
+	margin: 20px;
+}
+.container img {
+	max-width: 100%; /* 确保图片响应式 */
+	height: auto; /* 保持宽高比 */
+	margin-right: 20px; /* 图片和文字之间的间距 */
+}
+.text {
+	flex: 1; /* 让文字区域占据剩余空间 */
+}
