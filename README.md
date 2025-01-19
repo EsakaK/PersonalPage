@@ -45,6 +45,7 @@ build完成后通知管理员，由管理员负责推送至`bit:5000`总结点�
 |tcb|bit:5000/tcb_vc_torch212_cu121|
 |tcb|bit:5000/tcb_py38_deepseed|
 |lx|bit:5000/lx_py3.10_pytorch2.1.2_cu12.1_devel_v4|
+|lx|bit:5000/lx_py3.11_pytorch2.4.1_cu12.1_devel_v2|
 |mr|bit:5000/mr_difussion|
 |lzy|bit:5000/lzy_docker_basic_former|
 |lzy|bit:5000/lzy_docker_basic_mmb|
