@@ -52,6 +52,8 @@ build完成后通知管理员，由管理员负责推送至`bit:5000`总结点�
 |lzy|bit:5000/lzy_docker_basic_former|
 |lzy|bit:5000/lzy_docker_basic_mmb|
 |drx|bit:5000/drx_ldm_v2|
+|ly|bit:5000/ly_sb3_torch2.4.1_cu12.1|
+
 
 
 
