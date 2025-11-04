@@ -45,7 +45,7 @@ My research interests include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/CVPR-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/CVPR-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Bian Y`, Tang C, Li L, et al. Augmented Deep Contexts for Spatially Embedded Video Coding[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025: 2094-2104. 
