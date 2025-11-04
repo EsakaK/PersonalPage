@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yifan Bian (卞逸凡)"
-  avatar           : "images/avater.jpg"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Science and Technology of China"
   location         : "Hefei, Anhui Province"
   employer         : #"Hefei General Machinery Research Institute"
