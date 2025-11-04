@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#-abo"
+
+  - title: "Educations"
+    url: "/#-edu"
+
+  - title: "Publications"
+    url: "/#-pub"
+
+  - title: "Honors and Awards"
+    url: "#-hon"
+
+  - title: "Standard Contributions"
+    url: "/#-std"
