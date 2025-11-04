@@ -29,7 +29,7 @@ My research interests include:
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Educations
-- *2018.09 - 2022.06*, Undergraduate, <a href="https://www.tongji.edu.cn/"></a> Dalian Maritime University (DMU), School of Information Science and Technology, Dalian.
+- *2018.09 - 2022.06*, Undergraduate, <a href="https://www.tongji.edu.cn/"></a> Tongji University, School of Electronic and Information Engineering, Shanghai.
 - *2022.09 - Now*, Doctoral candidate, <a href="https://www.ustc.edu.cn/"></a> University of Science and Technology of China (USTC), School of Information Science and Technology, Hefei.
  
 <span class='anchor' id='-pub'></span>
