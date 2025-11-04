@@ -62,7 +62,7 @@ My research interests include:
 <span class='anchor' id='-hon'></span>
 
 # 🏅 Honors and Awards
-- *2025.05* Fifth National Artificial Intelligence Challenge (NAIC), "AI+ Image Encoding" `Second prize winner` 
+- *2025.05* Fifth National Artificial Intelligence Challenge (NAIC), "AI+ Image Coding" `Second prize winner` 
 - *2024.12* MMSP 2024 Grand Challenge Award (Image Track1/2, Video Track1) `First prize winner` 
 - *2023.12* VCIP 2023 Grand Challenge Award (Video compression track) `Second prize winner` 
 - *2022.12* VCIP 2022 Grand Challenge Award (Image compression track) `Second prize winner`
