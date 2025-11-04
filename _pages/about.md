@@ -22,7 +22,7 @@ My name is Yifan Bian (卞逸凡). I am studying for my PhD in the School of Inf
 My research interests include:
 - Image coding
 - Video coding
-- Scalable video codding
+- Scalable video coding
   
 
 
