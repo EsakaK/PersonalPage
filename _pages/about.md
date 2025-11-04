@@ -36,7 +36,7 @@ My research interests include:
 
 # 📝 Publications
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TMM2024.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Bian Y`, Sheng X, Li L, et al. Lssvc: A learned spatially scalable video coding scheme[J]. IEEE Transactions on Image Processing, 2024, 33: 3314-3327.
@@ -45,7 +45,7 @@ My research interests include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/VCIP2023.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/CVPR-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Bian Y`, Tang C, Li L, et al. Augmented Deep Contexts for Spatially Embedded Video Coding[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025: 2094-2104. 
