@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "简介"
-    url: "PersonalPage/zh-cn/#about-me"
+  - title: "About Me"
+    url: "/PersonalPage/#-abo"
 
-  - title: "学历"
-    url: "PersonalPage/zh-cn/#-xl"
+  - title: "Educations"
+    url: "/PersonalPage/#-edu"
 
-  - title: "论文专利"
-    url: "PersonalPage/zh-cn/#-lwzl"
+  - title: "Publications"
+    url: "/PersonalPage/#-pub"
 
-  - title: "荣誉奖项"
-    url: "PersonalPage/zh-cn/#-ryjx"
+  - title: "Honors and Awards"
+    url: "#-hon"
 
-  - title: "学术会议"
-    url: "PersonalPage/zh-cn/#-xshy"
-
-  - title: "工作实习"
-    url: "PersonalPage/zh-cn/#-gzsx"
+  - title: "Standard Contributions"
+    url: "/PersonalPage/#-std"
