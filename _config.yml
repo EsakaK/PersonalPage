@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Yifan Bian (卞逸凡)"
-description              : "PhD candidate in image and video coding"
+description              : "Ph.D. candidate in image and video coding"
 repository               : "EsakaK/PersonalPage"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -59,6 +59,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  blog             : "https://esakak.github.io/"
 
 
 # Reading Files
