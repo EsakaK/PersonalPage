@@ -36,20 +36,20 @@ My research interests include:
 
 # 📝 Publications
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP-2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- `Bian Y`, Sheng X, Li L, et al. Lssvc: A learned spatially scalable video coding scheme[J]. IEEE Transactions on Image Processing, 2024, 33: 3314-3327.
-[[HTML]](https://ieeexplore.ieee.org/document/10521480)[[Code]](https://github.com/EsakaK/LSSVC)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/CVPR-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Bian Y`, Tang C, Li L, et al. Augmented Deep Contexts for Spatially Embedded Video Coding[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025: 2094-2104. 
 [[HTML]](https://openaccess.thecvf.com/content/CVPR2025/html/Bian_Augmented_Deep_Contexts_for_Spatially_Embedded_Video_Coding_CVPR_2025_paper.html)[[Code]](https://github.com/EsakaK/SEVC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Bian Y`, Sheng X, Li L, et al. Lssvc: A learned spatially scalable video coding scheme[J]. IEEE Transactions on Image Processing, 2024, 33: 3314-3327.
+[[HTML]](https://ieeexplore.ieee.org/document/10521480)[[Code]](https://github.com/EsakaK/LSSVC)
 
 </div>
 </div>
