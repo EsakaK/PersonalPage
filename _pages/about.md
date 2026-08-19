@@ -60,12 +60,11 @@ My research interests include:
 </div>
 </div>
 
-- Hui Xiang, Yifan Bian, Li Li, Jingran Wu, Xianguo Zhang, Dong Liu. "Real-Time Neural Video Compression with Unified Intra and Inter Coding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 35217- 35226, 2026.
-- Hui Xiang, Yifan Bian, Yuqi Li, Haotian Zhang, Li Li, Dong Liu. "Efficient Frequency-Domain Modeling for Lossless Recompression of Variable-Rate JPEG Images." IEEE Transactions on Multimedia, 2026.
-- Chuanbo Tang, Zhuoyuan Li, Yifan Bian, Li Li, Dong Liu. "Neural Video Compression with Context Modulation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 12553-12563, 2025.
-- Yihan Jiang, Yuqi Li, Yifan Bian, Haotian Zhang, Dong Liu, Li Li. "A Unified Framework for Cross-sensor Assisted Learned Image Compression." IEEE Transactions on Multimedia, 2026.
-- Lei Liu, Chuanbo Tang, Yifan Bian, Li Li, Dong Liu. "Enhanced Inter-frame Dependency Modeling with State Space Models for Neural Video Compression." 2025 International Conference on Visual Communications and Image Processing (VCIP), Klagenfurt, Austria, pp. 1-5, 2025.
-- Li Z, Liao J, Tang C, et al. USTC-TD: A test dataset and benchmark for image and video coding in 2020s[J]. IEEE Transactions on Multimedia, 2025.
+- Hui Xiang, `Yifan Bian`, Li Li, Jingran Wu, Xianguo Zhang, Dong Liu. "Real-Time Neural Video Compression with Unified Intra and Inter Coding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 35217- 35226, 2026.
+- Hui Xiang, `Yifan Bian`, Yuqi Li, Haotian Zhang, Li Li, Dong Liu. "Efficient Frequency-Domain Modeling for Lossless Recompression of Variable-Rate JPEG Images." IEEE Transactions on Multimedia, 2026.
+- Chuanbo Tang, Zhuoyuan Li, `Yifan Bian`, Li Li, Dong Liu. "Neural Video Compression with Context Modulation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 12553-12563, 2025.
+- Yihan Jiang, Yuqi Li, `Yifan Bian`, Haotian Zhang, Dong Liu, Li Li. "A Unified Framework for Cross-sensor Assisted Learned Image Compression." IEEE Transactions on Multimedia, 2026.
+- Lei Liu, Chuanbo Tang, `Yifan Bian`, Li Li, Dong Liu. "Enhanced Inter-frame Dependency Modeling with State Space Models for Neural Video Compression." 2025 International Conference on Visual Communications and Image Processing (VCIP), Klagenfurt, Austria, pp. 1-5, 2025.
 
 
 <span class='anchor' id='-hon'></span>
