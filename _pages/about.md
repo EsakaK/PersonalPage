@@ -75,6 +75,8 @@ My research interests include:
 - *2024.12* MMSP 2024 Grand Challenge Award (Image Track1/2, Video Track1) `First prize winner` 
 - *2023.12* VCIP 2023 Grand Challenge Award (Video compression track) `Second prize winner` 
 - *2022.12* VCIP 2022 Grand Challenge Award (Image compression track) `Second prize winner`
+- *2024.10* 研究生国家奖学金
+- *2025.05* 中国留学基金委（CSC）国家建设高水平大学公派研究生奖学金
 
 <span class='anchor' id='-std'></span>
 
